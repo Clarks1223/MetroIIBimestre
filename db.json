@@ -25,6 +25,15 @@
       "llegada": "Carolina",
       "maquinista": "Byron",
       "detalles": "nn"
+    },
+    {
+      "nombre": "Pablo",
+      "sector": "SanCarlos",
+      "salida": "Bicenternario",
+      "llegada": "Elejido",
+      "maquinista": "Raptor",
+      "detalles": "It'sadinosaur",
+      "id": "eb0a0b8c-0e5a-4b39-b378-84cb547d46ba"
     }
   ]
 }
